@@ -6,7 +6,7 @@
  * Time: 08:59
  */
 
-namespace HTL3R\Flagstore\FlagTypes;
+namespace HTL3R\Flags\FlagTypes;
 
 use HTL3R\Flagstore\Interfaces as FlagInt;
 

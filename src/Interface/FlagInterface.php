@@ -6,7 +6,7 @@
  * Time: 09:03
  */
 
-namespace HTL3R\Flagstore\Interfaces;
+namespace HTL3R\Flags\Interfaces;
 
 interface FlagInterface{
     /**

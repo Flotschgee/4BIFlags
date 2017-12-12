@@ -1,6 +1,6 @@
 <?php
 
-namespace HTL3R\Flagstore\FlagTypes;
+namespace HTL3R\Flags\FlagTypes;
 
 abstract class Flag{
     /*private:      only the same class my access
